@@ -12,6 +12,6 @@ try:
         else:
             print(f"{input_num}不是回文数")
     else:
-        print("输入错误：请输入5位数字")
+        print("输入错误: 请输入5位数字")
 except ValueError:
-    print("输入错误：请输入5位数字")
+    print("输入错误: 请输入5位数字")
